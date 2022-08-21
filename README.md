@@ -1,24 +1,5 @@
-# covid19
+## Echarts 地图 版本低于5 npm i echarts@4.x -s
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 使用方案：
+1. 使用第三方封装好的 Vue-Echarts github
+2. 引入 Echarts 独立封装组件
