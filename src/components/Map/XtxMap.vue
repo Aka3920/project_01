@@ -17,7 +17,7 @@ export default {
     const cities = reactive([
       {
         city: '内蒙古',
-        num: 11
+        num: 12
       },
       {
         city: '新疆',
